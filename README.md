@@ -1,2 +1,3 @@
 # gitdemo
-Practising demo
+Practising git demo
+Author - Sandeep
